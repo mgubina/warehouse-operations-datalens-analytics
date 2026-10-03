@@ -22,9 +22,9 @@
 
 ## 📊 SQL-скрипты и витрины данных
 
-* [01_schema_and_tables.sql](sql/01_schema_and_tables.sql) — DDL-скрипты создания структуры базовых таблиц БД.
-* [02_views_creation.sql](sql/02_views_creation.sql) — скрипты создания аналитических витрин данных (`v_warehouse_perfect_mart`, `v_employee_utilization`, `v_dock_to_stock`).
-* [03_data_cleaning.sql](sql/03_data_cleaning.sql) — SQL-скрипты валидации и проверки качества данных.
+* [01_schema_and_tables.sql](sql/01_schema_and_tables.sql) - DDL-скрипты создания структуры базовых таблиц БД.
+* [02_views_creation.sql](sql/02_views_creation.sql) - скрипты создания аналитических витрин данных (`v_warehouse_perfect_mart`, `v_employee_utilization`, `v_dock_to_stock`).
+* [03_data_cleaning.sql](sql/03_data_cleaning.sql) - SQL-скрипты валидации и проверки качества данных.
 
 ---
 
